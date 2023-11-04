@@ -1,7 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-=============================================================================================================================================
+
 ![alt text](screenshot/roman-synkevych-wX2L8L-fGeA-unsplash.jpg)
 <div align ="center">
 </a>
