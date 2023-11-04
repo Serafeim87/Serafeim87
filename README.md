@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align ="center">
-![alt text](/Serafeim87/blob/main/screenshot/roman-synkevych-wX2L8L-fGeA-unsplash.jpg)
+![alt text](/blob/main/screenshot/roman-synkevych-wX2L8L-fGeA-unsplash.jpg)
 </a>
 </div>
 
