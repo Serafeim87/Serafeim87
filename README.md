@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align ="center">
-![Main Page](/screenshot/roman-synkevych-wX2L8L-fGeA-unsplash.jpg)
+
 </a>
 </div>
 
