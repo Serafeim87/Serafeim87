@@ -7,7 +7,7 @@
 </a>
 
 
-<img src= "https://komarev.com/ghpvc/?username=paschalis777&style=flat-github-username)" />
+
 </div>
 
 
