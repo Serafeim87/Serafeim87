@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div align ="center">
-![Main Page](/screenshot/Screenshot%202023-10-17%20123033.png)
-<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+![Main Page](/Serafeim87/Serafeim87/blob/main/roman-synkevych-wX2L8L-fGeA-unsplash.jpg)
+Serafeim87/Serafeim87/blob/main/roman-synkevych-wX2L8L-fGeA-unsplash.jpg
 </a>
 </div>
 <img src= "https://komarev.com/ghpvc/?username=paschalis777&style=flat-github-username)" />
