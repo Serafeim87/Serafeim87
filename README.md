@@ -54,9 +54,7 @@ I need a chance to prove my skills.
   
    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 
-   ### :fire: My Stats :
 
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
          
           
    </div>
