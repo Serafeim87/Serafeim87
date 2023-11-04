@@ -2,7 +2,7 @@
 ![alt text](screenshot/roman-synkevych-wX2L8L-fGeA-unsplash.jpg)
 <div align ="center">
 </a>
-<a href="https://www.linkedin.com/in/paschalis-tsiolas-6a66608b" target= "_blank">
+<a href="https://www.linkedin.com/in/serafeim-verriopoulos" target= "_blank">
 <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
