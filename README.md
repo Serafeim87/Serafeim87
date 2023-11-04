@@ -1,7 +1,6 @@
 ### Hi there 👋
 <div align ="center">
-![Main Page](roman-synkevych-wX2L8L-fGeA-unsplash.jpg)
-
+![Main Page](/screenshot/Screenshot%202023-10-17%20123033.png)
 </a>
 </div>
 <img src= "https://komarev.com/ghpvc/?username=paschalis777&style=flat-github-username)" />
