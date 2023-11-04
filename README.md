@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align ="center">
-![Main Page](/Serafeim87/blob/main/screenshot/roman-synkevych-wX2L8L-fGeA-unsplash.jpg))
+![Main Page](/blob/main/screenshot/roman-synkevych-wX2L8L-fGeA-unsplash.jpg))
 </a>
 </div>
 <img src= "https://komarev.com/ghpvc/?username=paschalis777&style=flat-github-username)" />
