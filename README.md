@@ -2,11 +2,13 @@
 ![alt text](screenshot/roman-synkevych-wX2L8L-fGeA-unsplash.jpg)
 <div align ="center">
 
+<a href="https://www.linkedin.com/in/paschalis-tsiolas-6a66608b" target= "_blank">
 <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-</div>
+
 <img src= "https://komarev.com/ghpvc/?username=paschalis777&style=flat-github-username)" />
 </div>
+
 
 
 
