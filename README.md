@@ -52,8 +52,6 @@ I need a chance to prove my skills.
    
    🔥 My Stats 
    
-   [![GitHub Streak](https://streak-stats.demolab.com?user=paschalis777&theme=apprentice&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-   
    
    
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paschalis777)](https://github.com/anuraghazra/github-readme-stats)
