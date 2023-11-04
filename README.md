@@ -53,6 +53,10 @@ I need a chance to prove my skills.
    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" />
   
    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+
+   ### :fire: My Stats :
+
+   https://github-readme-streak-stats.herokuapp.com/?user=your-github-serafeim87
          
           
    </div>
