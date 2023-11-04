@@ -50,11 +50,5 @@ I need a chance to prove my skills.
    
    ---
    
-   🔥 My Stats 
-   
-   
-   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paschalis777)](https://github.com/anuraghazra/github-readme-stats)
-   
-   ---
+ 
    
