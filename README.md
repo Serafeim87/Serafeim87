@@ -1,11 +1,11 @@
 ### Hi there 👋
 ![alt text](screenshot/roman-synkevych-wX2L8L-fGeA-unsplash.jpg)
 <div align ="center">
-![alt text](screenshot/roman-synkevych-wX2L8L-fGeA-unsplash.jpg)
+
 </a>
 </div>
 
-</div>
+
 
 
 ---
