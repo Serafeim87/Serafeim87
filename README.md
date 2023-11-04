@@ -1,11 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Serafeim Verriopoulos
 =============================================================================================================================================
-
-Junior Software Engineer
-------------------------
-
-* 🌍  I'm based in Athens
-* ✉️  You can contact me at [serafeim.verriopoulos@gmail.com](mailto:serafeim.verriopoulos@gmail.com)
 ![alt text](screenshot/roman-synkevych-wX2L8L-fGeA-unsplash.jpg)
 <div align ="center">
 </a>
