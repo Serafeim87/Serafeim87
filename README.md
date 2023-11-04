@@ -1,8 +1,6 @@
 ### Hi there 👋
 <div align ="center">
-<img src= https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif width= "600" />
-<div>
-<a href="https://www.linkedin.com/in/paschalis-tsiolas-6a66608b" target= "_blank">
+![Main Page](/screenshot/Screenshot%202023-10-17%20123033.png)
 <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </div>
