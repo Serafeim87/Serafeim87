@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align ="center">
-![Order Page](/Serafeim87/blob/main/screenshot/roman-synkevych-wX2L8L-fGeA-unsplash.jpg)
+![Order Page](/blob/main/screenshot/roman-synkevych-wX2L8L-fGeA-unsplash.jpg)
 </a>
 </div>
 
