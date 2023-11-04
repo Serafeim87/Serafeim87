@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div align ="center">
 ![Main Page](roman-synkevych-wX2L8L-fGeA-unsplash.jpg)
-Serafeim87/Serafeim87/blob/main/roman-synkevych-wX2L8L-fGeA-unsplash.jpg
+
 </a>
 </div>
 <img src= "https://komarev.com/ghpvc/?username=paschalis777&style=flat-github-username)" />
