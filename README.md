@@ -20,9 +20,7 @@
 
 
 ### 👨‍💼: About me
-I changed my career to follow my dream. I like coding and never stop until I complete a project.
-I’m dedicated to writing “Best practices” code. I’m willing to learn new programming languages. 
-I need a chance to prove my skills.
+Aspiring entry level software engineer with a genuine passion for coding and a strong desire to innovate and create. I thrive on problem-solving, constantly seeking new challenges to fuel my growth in the field. Eager to contribute my skills and collaborate with a dynamic team to develop cutting-edge software solutions. Committed to continuous learning and enthusiastic about making a meaningful impact through technology.
 
 
 ---
